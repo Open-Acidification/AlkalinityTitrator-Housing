@@ -1,0 +1,2 @@
+﻿"Printed Hole Size"= 6.5
+"CAD Hole Size"= 0.9683 * "Printed Hole Size" + 0.5265
